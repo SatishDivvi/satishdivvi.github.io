@@ -23,6 +23,10 @@ body {
   margin-top: -50px;
 }
 
+.btnTextAlign {
+  text-align: left !important;
+}
+
 @media (min-width: 1199px) {
   .port-item {
     padding: 3em !important; } }
