@@ -1,7 +1,7 @@
-
-$('.slider').slick({
-  infinite: true,
-  slideToShow: 1,
-  slideToScroll:1
-
+$(document).ready(function(){
+  $('.slider').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll:1
+  });
 });
