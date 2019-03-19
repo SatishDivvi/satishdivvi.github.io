@@ -4,6 +4,6 @@ $(document).ready(function(){
     slidesToShow: 1,
     slidesToScroll:1,
     autoplay: true,
-    autoplaySpeed: 500
+    autoplaySpeed: 800
   });
 });
